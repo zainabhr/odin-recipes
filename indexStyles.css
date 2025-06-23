@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: burlywood;
+}
+
+.header{
+    background-color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    padding: 5px;
+}
+
+.link a{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: ; */
+    padding: 11px
+}
+
+.link{
+    padding: 10px;
+    list-style: none;
+}
